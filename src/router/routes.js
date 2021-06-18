@@ -13,8 +13,14 @@ const routes = [
   },
   { path: '/explore', component: () => import('src/pages/PageExplore.vue')  ,
   name:'Explore'},
+  { path: '/messages', component: () => import('src/pages/PageMessages.vue')  ,
+  name:'Messages'},
+  { path: '/c-1', component: () => import('src/pages/PageC-1.vue')  ,
+  name:'Chats'},
   { path: '/notify', component: () => import('src/pages/PageNotify.vue')  ,
-  name:'Notifications'}
+  name:'Notifications',
+
+}
 ]
   },
 

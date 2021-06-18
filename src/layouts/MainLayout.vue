@@ -72,9 +72,9 @@
 
         <q-item-section class="text-h6 text-weight-bold">Notifications</q-item-section>
       </q-item>
-      <!--
+    
       <q-item
-      to="/about"
+      to="/messages"
        clickable v-ripple>
         <q-item-section avatar>
           <q-icon  name="message"  size="md"/>
@@ -110,8 +110,7 @@
       </q-item>
       
 
-  -->
-    
+  
   <br>
    <q-btn align="between" unelevated rounded color="primary"   class="btn-fixed" label="Tweet" />
     </q-list>
@@ -134,7 +133,7 @@
       >
 
      
- <q-item class="q-pa-md">
+        <q-item class="q-pa-md">
         <q-item-section>
           <q-item-label overline class="text-grey">Education</q-item-label>
           <q-item-label class=" text-weight-bold">Something interesting happening!</q-item-label>
