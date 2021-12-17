@@ -83,30 +83,9 @@
         <q-item-section class="text-h6 text-weight-bold">Messsages</q-item-section>
       </q-item>
       
-      <q-item
-      to="/about"
-       clickable v-ripple>
-        <q-item-section avatar>
-          <q-icon  name="bookmarks"  size="md"/>
-        </q-item-section>
+      
 
-        <q-item-section class="text-h6 text-weight-bold">Bookmarks</q-item-section>
-      </q-item><q-item
-      to="/about"
-       clickable v-ripple>
-        <q-item-section avatar>
-          <q-icon  name="list"  size="md"/>
-        </q-item-section>
-
-        <q-item-section class="text-h6 text-weight-bold">Lists</q-item-section>
-      </q-item><q-item
-      to="/about"
-       clickable v-ripple>
-        <q-item-section avatar>
-          <q-icon  name="account_box"  size="md"/>
-        </q-item-section>
-
-        <q-item-section class="text-h6 text-weight-bold">Profile</q-item-section>
+        
       </q-item>
       
 
@@ -146,7 +125,7 @@
       </q-item>
       <q-item class="q-pa-md">
         <q-item-section>
-          <q-item-label overline class="text-grey">Education</q-item-label>
+          <q-item-label overline class="text-grey">Sports</q-item-label>
           <q-item-label class=" text-weight-bold">Something interesting happening!</q-item-label>
           <q-item-label caption>Secondary line text. Lorem ipsum dolor sit amet, consectetur adipiscit elit.</q-item-label>
         </q-item-section>
@@ -157,7 +136,7 @@
       </q-item>
       <q-item class="q-pa-md">
         <q-item-section>
-          <q-item-label overline class="text-grey">Education</q-item-label>
+          <q-item-label overline class="text-grey">Omicron</q-item-label>
           <q-item-label class=" text-weight-bold">Something interesting happening!</q-item-label>
           <q-item-label caption>Secondary line text. Lorem ipsum dolor sit amet, consectetur adipiscit elit.</q-item-label>
         </q-item-section>

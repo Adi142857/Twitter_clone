@@ -9,7 +9,8 @@
   placeholder="What's happening" counter maxlength="280" autogrow >
         <template v-slot:before>
           <q-avatar size="xl">
-            <img src="https://cdn.quasar.dev/img/avatar5.jpg">
+            
+            <img src="https://i.ibb.co/7nPcw7y/Whats-App-Image-2021-12-17-at-11-00-11-PM.jpg">
           </q-avatar>
       
        
@@ -43,7 +44,7 @@
       :key="tweet.date">
         <q-item-section avatar top>
           <q-avatar>
-            <img src="https://cdn.quasar.dev/img/avatar2.jpg">
+            <img src="https://i.ibb.co/7nPcw7y/Whats-App-Image-2021-12-17-at-11-00-11-PM.jpg">
           </q-avatar>
         </q-item-section>
 
